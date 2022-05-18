@@ -1,4 +1,4 @@
-# Batool Mohamed 👋
+# Hi, i'm Batool Mohamed 👋
 
 I 'm Batool Mohamed , I am studying statistics and Computer Science at faculty of science Ain Shams.
 I really enjoy learning languages JS and creating websites 
@@ -6,20 +6,3 @@ I really enjoy learning languages JS and creating websites
 ## Skills and Experience
 * 💻 HTML , CSS , JS 
 
-## My Portfolio
-
-
-<!--
-**BatoolGasser/BatoolGasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
